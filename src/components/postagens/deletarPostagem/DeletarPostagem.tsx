@@ -4,7 +4,7 @@ import {Box} from '@mui/material';
 import './DeletarPostagem.css';
 import { useNavigate, useParams } from 'react-router-dom';
 import Postagem from '../../../models/Postagem';
-import { buscaId, deleteId } from '../../../services/Service';
+import { buscaId, deleteId } from '../../../services/Services';
 import { useSelector } from 'react-redux';
 import { TokenState } from '../../../store/tokens/tokensReducer';
 import { toast } from 'react-toastify';

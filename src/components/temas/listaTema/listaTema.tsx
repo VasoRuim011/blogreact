@@ -5,7 +5,7 @@ import {Box} from '@mui/material';
 import Tema from '../../../models/Tema';
 import './ListaTema.css';
 import {useNavigate} from 'react-router-dom';
-import { busca } from '../../../services/Service';
+import { busca } from '../../../services/Services';
 import { useSelector } from 'react-redux';
 import { TokenState } from '../../../store/tokens/tokensReducer';
 import { toast } from 'react-toastify';
