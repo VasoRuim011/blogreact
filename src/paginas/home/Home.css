@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+=======
+.caixa{
+    background-color: #3F51B5;
+}
+
+.titulo{
+   color: white !important;
+   font-weight: bold !important;
+}
+
+.botao{
+    border-color: white !important;
+    background-color: #3F51B5;
+    color: white !important;
+}
+
+.postagens{
+    background-color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+>>>>>>> d4df6a9a89269a2ea353883b4f08dae5fea44a52
